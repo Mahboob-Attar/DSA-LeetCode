@@ -30,4 +30,8 @@ DSA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mahboob-Attar/DSA/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [1045-customers-who-bought-all-products](https://github.com/Mahboob-Attar/DSA/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
