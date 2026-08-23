@@ -34,6 +34,7 @@ DSA
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Mahboob-Attar/DSA/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/0180-consecutive-numbers) |
 | [0620-not-boring-movies](https://github.com/Mahboob-Attar/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Mahboob-Attar/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Mahboob-Attar/DSA/tree/master/1045-customers-who-bought-all-products) |
