@@ -18,6 +18,7 @@ DSA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mahboob-Attar/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/Mahboob-Attar/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mahboob-Attar/DSA/tree/master/0283-move-zeroes) |
 ## String
@@ -48,6 +49,7 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Mahboob-Attar/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahboob-Attar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Mahboob-Attar/DSA/tree/master/0283-move-zeroes) |
