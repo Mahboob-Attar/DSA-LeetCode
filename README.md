@@ -33,6 +33,7 @@ DSA
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Mahboob-Attar/DSA/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Mahboob-Attar/DSA/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/0180-consecutive-numbers) |
 | [0620-not-boring-movies](https://github.com/Mahboob-Attar/DSA/tree/master/0620-not-boring-movies) |
