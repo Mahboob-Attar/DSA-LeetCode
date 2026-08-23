@@ -48,6 +48,7 @@ DSA
 | [0620-not-boring-movies](https://github.com/Mahboob-Attar/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Mahboob-Attar/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Mahboob-Attar/DSA/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/Mahboob-Attar/DSA/tree/master/1068-product-sales-analysis-i) |
 ## Array
 |  |
 | ------- |
