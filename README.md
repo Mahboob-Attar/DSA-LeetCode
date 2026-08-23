@@ -33,5 +33,6 @@ DSA
 ## Database
 |  |
 | ------- |
+| [0627-swap-sex-of-employees](https://github.com/Mahboob-Attar/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Mahboob-Attar/DSA/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
