@@ -18,6 +18,7 @@ DSA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mahboob-Attar/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0283-move-zeroes](https://github.com/Mahboob-Attar/DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -47,4 +48,5 @@ DSA
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahboob-Attar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/Mahboob-Attar/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
