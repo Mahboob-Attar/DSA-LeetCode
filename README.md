@@ -26,6 +26,7 @@ DSA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mahboob-Attar/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahboob-Attar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |
@@ -39,4 +40,8 @@ DSA
 | [0620-not-boring-movies](https://github.com/Mahboob-Attar/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Mahboob-Attar/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Mahboob-Attar/DSA/tree/master/1045-customers-who-bought-all-products) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahboob-Attar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
