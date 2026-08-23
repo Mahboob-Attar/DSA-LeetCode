@@ -43,6 +43,7 @@ DSA
 | [0178-rank-scores](https://github.com/Mahboob-Attar/DSA/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/0180-consecutive-numbers) |
 | [0550-game-play-analysis-iv](https://github.com/Mahboob-Attar/DSA/tree/master/0550-game-play-analysis-iv) |
+| [0577-employee-bonus](https://github.com/Mahboob-Attar/DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Mahboob-Attar/DSA/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Mahboob-Attar/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Mahboob-Attar/DSA/tree/master/0595-big-countries) |
