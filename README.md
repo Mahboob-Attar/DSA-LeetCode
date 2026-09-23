@@ -12,6 +12,7 @@ DSA
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mahboob-Attar/DSA/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Mahboob-Attar/DSA/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +91,7 @@ DSA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Mahboob-Attar/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Mahboob-Attar/DSA/tree/master/0136-single-number) |
 ## Binary Search
 |  |
