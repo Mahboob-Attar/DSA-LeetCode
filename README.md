@@ -13,6 +13,7 @@ DSA
 | [0002-add-two-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mahboob-Attar/DSA/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Mahboob-Attar/DSA/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/Mahboob-Attar/DSA/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@ DSA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mahboob-Attar/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Mahboob-Attar/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahboob-Attar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
@@ -97,4 +99,8 @@ DSA
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mahboob-Attar/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
