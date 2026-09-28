@@ -70,6 +70,7 @@ DSA
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahboob-Attar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mahboob-Attar/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mahboob-Attar/DSA/tree/master/0169-majority-element) |
+| [0228-summary-ranges](https://github.com/Mahboob-Attar/DSA/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Mahboob-Attar/DSA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
