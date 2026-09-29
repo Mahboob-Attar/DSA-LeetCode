@@ -64,6 +64,7 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mahboob-Attar/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Mahboob-Attar/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0088-merge-sorted-array) |
@@ -80,6 +81,7 @@ DSA
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mahboob-Attar/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Mahboob-Attar/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
