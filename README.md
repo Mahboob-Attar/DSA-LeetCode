@@ -79,6 +79,7 @@ DSA
 | [0283-move-zeroes](https://github.com/Mahboob-Attar/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/Mahboob-Attar/DSA/tree/master/0605-can-place-flowers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Sorting
 |  |
 | ------- |
