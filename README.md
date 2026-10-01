@@ -30,6 +30,7 @@ DSA
 | [0027-remove-element](https://github.com/Mahboob-Attar/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mahboob-Attar/DSA/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -76,18 +77,21 @@ DSA
 | [0228-summary-ranges](https://github.com/Mahboob-Attar/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mahboob-Attar/DSA/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mahboob-Attar/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mahboob-Attar/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Mahboob-Attar/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +116,7 @@ DSA
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Mahboob-Attar/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Memoization
 |  |
 | ------- |
