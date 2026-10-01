@@ -1,5 +1,7 @@
 class Solution {
     public int findLengthOfLCIS(int[] nums) {
+        if (nums.length == 0) return 0;
+
         int current = 1;
         int max = 1;
 
