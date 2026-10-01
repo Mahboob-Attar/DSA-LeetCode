@@ -1,26 +1,25 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        int l1 = nums1.length;
-        int l2 = nums2.length;
-        int i = 0, j = 0, k = 0;
         Arrays.sort(nums1);
         Arrays.sort(nums2);
-        while( i < l1 && j < l2)
-        {
-            if(nums1[i] < nums2[j])
-            {
+        int i=0,j=0;
+        List<Integer> intersection = new ArrayList<>();
+        while(i<nums1.length && j<nums2.length){
+            if(nums1[i]<nums2[j]){
                 i++;
-            }
-            else if(nums1[i] > nums2[j])
-            {
+            }else if(nums1[i]>nums2[j]){
                 j++;
-            }
-            else
-            {
-                nums1[k++] = nums1[i++];
+            }else{
+                intersection.add(nums1[i]);
+                i++;
                 j++;
             }
         }
-        return Arrays.copyOfRange(nums1,0,k);
+        int[] result = new int[intersection.size()];
+        for (int k = 0; k < intersection.size(); k++) {
+            result[k] = intersection.get(k);
+        }
+        
+        return result;
     }
 }
