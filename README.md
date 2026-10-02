@@ -36,6 +36,7 @@ DSA
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mahboob-Attar/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Mahboob-Attar/DSA/tree/master/0058-length-of-last-word) |
+| [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@ DSA
 | [0463-island-perimeter](https://github.com/Mahboob-Attar/DSA/tree/master/0463-island-perimeter) |
 | [0605-can-place-flowers](https://github.com/Mahboob-Attar/DSA/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ DSA
 | [0169-majority-element](https://github.com/Mahboob-Attar/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 ## Divide and Conquer
 |  |
 | ------- |
