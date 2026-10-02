@@ -83,6 +83,7 @@ DSA
 | [0463-island-perimeter](https://github.com/Mahboob-Attar/DSA/tree/master/0463-island-perimeter) |
 | [0605-can-place-flowers](https://github.com/Mahboob-Attar/DSA/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/Mahboob-Attar/DSA/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mahboob-Attar/DSA/tree/master/0806-number-of-lines-to-write-string) |
 ## Sorting
@@ -165,4 +166,8 @@ DSA
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Mahboob-Attar/DSA/tree/master/0463-island-perimeter) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Mahboob-Attar/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
