@@ -35,6 +35,7 @@ DSA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mahboob-Attar/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Mahboob-Attar/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mahboob-Attar/DSA/tree/master/0058-length-of-last-word) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mahboob-Attar/DSA/tree/master/0806-number-of-lines-to-write-string) |
@@ -155,6 +156,7 @@ DSA
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mahboob-Attar/DSA/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahboob-Attar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Greedy
 |  |
@@ -173,4 +175,8 @@ DSA
 | ------- |
 | [0724-find-pivot-index](https://github.com/Mahboob-Attar/DSA/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mahboob-Attar/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
