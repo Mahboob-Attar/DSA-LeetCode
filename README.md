@@ -99,6 +99,7 @@ DSA
 | [0724-find-pivot-index](https://github.com/Mahboob-Attar/DSA/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mahboob-Attar/DSA/tree/master/0806-number-of-lines-to-write-string) |
+| [0860-lemonade-change](https://github.com/Mahboob-Attar/DSA/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1470-shuffle-the-array](https://github.com/Mahboob-Attar/DSA/tree/master/1470-shuffle-the-array) |
@@ -181,6 +182,7 @@ DSA
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Mahboob-Attar/DSA/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/Mahboob-Attar/DSA/tree/master/0860-lemonade-change) |
 ## Breadth-First Search
 |  |
 | ------- |
