@@ -31,6 +31,7 @@ DSA
 | [0088-merge-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mahboob-Attar/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Mahboob-Attar/DSA/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
@@ -39,6 +40,7 @@ DSA
 | [0020-valid-parentheses](https://github.com/Mahboob-Attar/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mahboob-Attar/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Mahboob-Attar/DSA/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Mahboob-Attar/DSA/tree/master/0383-ransom-note) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mahboob-Attar/DSA/tree/master/0806-number-of-lines-to-write-string) |
