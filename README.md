@@ -16,6 +16,7 @@ DSA
 | [0007-reverse-integer](https://github.com/Mahboob-Attar/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mahboob-Attar/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Mahboob-Attar/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Mahboob-Attar/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mahboob-Attar/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mahboob-Attar/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ DSA
 | [0005-longest-palindromic-substring](https://github.com/Mahboob-Attar/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Mahboob-Attar/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mahboob-Attar/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Mahboob-Attar/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Mahboob-Attar/DSA/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Mahboob-Attar/DSA/tree/master/0383-ransom-note) |
@@ -146,6 +148,7 @@ DSA
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Mahboob-Attar/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Mahboob-Attar/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Mahboob-Attar/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mahboob-Attar/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -220,5 +223,6 @@ DSA
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mahboob-Attar/DSA/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Mahboob-Attar/DSA/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
