@@ -50,6 +50,7 @@ DSA
 | [0125-valid-palindrome](https://github.com/Mahboob-Attar/DSA/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Mahboob-Attar/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mahboob-Attar/DSA/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/Mahboob-Attar/DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Mahboob-Attar/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0392-is-subsequence) |
@@ -177,12 +178,14 @@ DSA
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahboob-Attar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mahboob-Attar/DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahboob-Attar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Mahboob-Attar/DSA/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahboob-Attar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mahboob-Attar/DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahboob-Attar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Mahboob-Attar/DSA/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/Mahboob-Attar/DSA/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
@@ -190,6 +193,7 @@ DSA
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mahboob-Attar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mahboob-Attar/DSA/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahboob-Attar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Mahboob-Attar/DSA/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -233,4 +237,8 @@ DSA
 | ------- |
 | [0067-add-binary](https://github.com/Mahboob-Attar/DSA/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Mahboob-Attar/DSA/tree/master/0495-teemo-attacking) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Mahboob-Attar/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
