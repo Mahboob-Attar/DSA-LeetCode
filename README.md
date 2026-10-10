@@ -51,6 +51,7 @@ DSA
 | [0171-excel-sheet-column-number](https://github.com/Mahboob-Attar/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mahboob-Attar/DSA/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Mahboob-Attar/DSA/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Mahboob-Attar/DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Mahboob-Attar/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0392-is-subsequence) |
@@ -133,6 +134,7 @@ DSA
 | [0169-majority-element](https://github.com/Mahboob-Attar/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Mahboob-Attar/DSA/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Mahboob-Attar/DSA/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Mahboob-Attar/DSA/tree/master/0383-ransom-note) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
