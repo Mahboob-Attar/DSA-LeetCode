@@ -39,6 +39,7 @@ DSA
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -59,6 +60,7 @@ DSA
 | [0500-keyboard-row](https://github.com/Mahboob-Attar/DSA/tree/master/0500-keyboard-row) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mahboob-Attar/DSA/tree/master/0806-number-of-lines-to-write-string) |
+| [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,6 +206,7 @@ DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mahboob-Attar/DSA/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahboob-Attar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -242,6 +245,7 @@ DSA
 | ------- |
 | [0067-add-binary](https://github.com/Mahboob-Attar/DSA/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Mahboob-Attar/DSA/tree/master/0495-teemo-attacking) |
+| [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
 ## Backtracking
 |  |
 | ------- |
