@@ -61,6 +61,7 @@ DSA
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mahboob-Attar/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Mahboob-Attar/DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -250,4 +251,12 @@ DSA
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Mahboob-Attar/DSA/tree/master/0257-binary-tree-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Mahboob-Attar/DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Mahboob-Attar/DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 <!---LeetCode Topics End-->
