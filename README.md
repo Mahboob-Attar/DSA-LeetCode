@@ -111,6 +111,7 @@ DSA
 | [0485-max-consecutive-ones](https://github.com/Mahboob-Attar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Mahboob-Attar/DSA/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Mahboob-Attar/DSA/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Mahboob-Attar/DSA/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/Mahboob-Attar/DSA/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Mahboob-Attar/DSA/tree/master/0724-find-pivot-index) |
@@ -129,6 +130,7 @@ DSA
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Mahboob-Attar/DSA/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Mahboob-Attar/DSA/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mahboob-Attar/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
@@ -259,4 +261,8 @@ DSA
 |  |
 | ------- |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Mahboob-Attar/DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Mahboob-Attar/DSA/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
