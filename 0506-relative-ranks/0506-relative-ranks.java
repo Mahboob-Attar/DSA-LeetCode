@@ -1,31 +1,36 @@
-
-import java.util.Arrays;
-
 class Solution {
     public String[] findRelativeRanks(int[] score) {
         int n = score.length;
-        Integer[] idx = new Integer[n];
 
+        Integer[] indices = new Integer[n];
+
+        // Store original indices
         for (int i = 0; i < n; i++) {
-            idx[i] = i;
+            indices[i] = i;
         }
 
-        Arrays.sort(idx, (a, b) ->
+        // Sort indices by score in descending order
+        Arrays.sort(indices, (a, b) ->
             Integer.compare(score[b], score[a])
         );
 
-        String[] ans = new String[n];
+        String[] answer = new String[n];
 
+        // Assign ranks
         for (int i = 0; i < n; i++) {
-            int rank = i + 1;
-            int originalIndex = idx[i];
+            int originalIndex = indices[i];
 
-            if (rank == 1) ans[originalIndex] = "Gold Medal";
-            else if (rank == 2) ans[originalIndex] = "Silver Medal";
-            else if (rank == 3) ans[originalIndex] = "Bronze Medal";
-            else ans[originalIndex] = String.valueOf(rank);
+            if (i == 0) {
+                answer[originalIndex] = "Gold Medal";
+            } else if (i == 1) {
+                answer[originalIndex] = "Silver Medal";
+            } else if (i == 2) {
+                answer[originalIndex] = "Bronze Medal";
+            } else {
+                answer[originalIndex] = String.valueOf(i + 1);
+            }
         }
 
-        return ans;
+        return answer;
     }
 }
