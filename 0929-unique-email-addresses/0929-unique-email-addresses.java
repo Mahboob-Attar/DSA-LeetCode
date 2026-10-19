@@ -3,20 +3,29 @@ class Solution {
         Set<String> unique = new HashSet<>();
 
         for (String email : emails) {
-            String[] parts = email.split("@");
+            StringBuilder normalized = new StringBuilder();
+            boolean afterPlus = false;
+            boolean domain = false;
 
-            String local = parts[0];
-            String domain = parts[1];
+            for (char c : email.toCharArray()) {
+                if (c == '@') {
+                    domain = true;
+                    normalized.append(c);
+                    continue;
+                }
 
-            int plus = local.indexOf('+');
-
-            if (plus != -1) {
-                local = local.substring(0, plus);
+                if (domain) {
+                    normalized.append(c);
+                } else if (c == '+') {
+                    afterPlus = true;
+                } else if (c == '.') {
+                    if (!afterPlus) continue;
+                } else if (!afterPlus) {
+                    normalized.append(c);
+                }
             }
 
-            local = local.replace(".", "");
-
-            unique.add(local + "@" + domain);
+            unique.add(normalized.toString());
         }
 
         return unique.size();
