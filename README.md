@@ -61,6 +61,7 @@ DSA
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mahboob-Attar/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
+| [0929-unique-email-addresses](https://github.com/Mahboob-Attar/DSA/tree/master/0929-unique-email-addresses) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Mahboob-Attar/DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Dynamic Programming
 |  |
@@ -118,6 +119,7 @@ DSA
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mahboob-Attar/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0860-lemonade-change](https://github.com/Mahboob-Attar/DSA/tree/master/0860-lemonade-change) |
+| [0929-unique-email-addresses](https://github.com/Mahboob-Attar/DSA/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mahboob-Attar/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -146,6 +148,7 @@ DSA
 | [0383-ransom-note](https://github.com/Mahboob-Attar/DSA/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Mahboob-Attar/DSA/tree/master/0500-keyboard-row) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
+| [0929-unique-email-addresses](https://github.com/Mahboob-Attar/DSA/tree/master/0929-unique-email-addresses) |
 ## Divide and Conquer
 |  |
 | ------- |
