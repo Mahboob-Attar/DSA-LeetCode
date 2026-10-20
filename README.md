@@ -120,6 +120,7 @@ DSA
 | [0806-number-of-lines-to-write-string](https://github.com/Mahboob-Attar/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0860-lemonade-change](https://github.com/Mahboob-Attar/DSA/tree/master/0860-lemonade-change) |
 | [0929-unique-email-addresses](https://github.com/Mahboob-Attar/DSA/tree/master/0929-unique-email-addresses) |
+| [0941-valid-mountain-array](https://github.com/Mahboob-Attar/DSA/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mahboob-Attar/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
