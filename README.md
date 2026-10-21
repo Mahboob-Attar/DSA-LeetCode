@@ -39,6 +39,7 @@ DSA
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Mahboob-Attar/DSA/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -109,6 +110,7 @@ DSA
 | [0303-range-sum-query-immutable](https://github.com/Mahboob-Attar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Mahboob-Attar/DSA/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Mahboob-Attar/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Mahboob-Attar/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Mahboob-Attar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Mahboob-Attar/DSA/tree/master/0495-teemo-attacking) |
@@ -136,6 +138,7 @@ DSA
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Mahboob-Attar/DSA/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Mahboob-Attar/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Mahboob-Attar/DSA/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mahboob-Attar/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -221,6 +224,7 @@ DSA
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Mahboob-Attar/DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Mahboob-Attar/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Mahboob-Attar/DSA/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mahboob-Attar/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -274,4 +278,8 @@ DSA
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Mahboob-Attar/DSA/tree/master/0506-relative-ranks) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mahboob-Attar/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
