@@ -3,15 +3,13 @@ class Solution {
         Arrays.sort(g);
         Arrays.sort(s);
 
-        int i = 0; // Child pointer
-        int j = 0; // Cookie pointer
+        int i = 0, j = 0;
 
         while (i < g.length && j < s.length) {
             if (s[j] >= g[i]) {
-                i++; // Satisfy this child
+                i++;
             }
-
-            j++; // Use this cookie or discard it
+            j++;
         }
 
         return i;
