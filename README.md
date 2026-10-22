@@ -132,6 +132,7 @@ DSA
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1470-shuffle-the-array](https://github.com/Mahboob-Attar/DSA/tree/master/1470-shuffle-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mahboob-Attar/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2239-find-closest-number-to-zero](https://github.com/Mahboob-Attar/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mahboob-Attar/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Sorting
 |  |
