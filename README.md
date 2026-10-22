@@ -133,6 +133,7 @@ DSA
 | [1470-shuffle-the-array](https://github.com/Mahboob-Attar/DSA/tree/master/1470-shuffle-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mahboob-Attar/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Mahboob-Attar/DSA/tree/master/2239-find-closest-number-to-zero) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mahboob-Attar/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Sorting
 |  |
@@ -146,6 +147,7 @@ DSA
 | [0506-relative-ranks](https://github.com/Mahboob-Attar/DSA/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mahboob-Attar/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +164,7 @@ DSA
 | [0929-unique-email-addresses](https://github.com/Mahboob-Attar/DSA/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Mahboob-Attar/DSA/tree/master/1002-find-common-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mahboob-Attar/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -172,6 +175,7 @@ DSA
 | [0169-majority-element](https://github.com/Mahboob-Attar/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Mahboob-Attar/DSA/tree/master/0383-ransom-note) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mahboob-Attar/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
