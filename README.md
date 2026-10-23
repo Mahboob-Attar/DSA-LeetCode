@@ -116,6 +116,7 @@ DSA
 | [0463-island-perimeter](https://github.com/Mahboob-Attar/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Mahboob-Attar/DSA/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Mahboob-Attar/DSA/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/Mahboob-Attar/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Mahboob-Attar/DSA/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Mahboob-Attar/DSA/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/Mahboob-Attar/DSA/tree/master/0605-can-place-flowers) |
@@ -159,6 +160,7 @@ DSA
 | [0290-word-pattern](https://github.com/Mahboob-Attar/DSA/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Mahboob-Attar/DSA/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/Mahboob-Attar/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Mahboob-Attar/DSA/tree/master/0500-keyboard-row) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 | [0929-unique-email-addresses](https://github.com/Mahboob-Attar/DSA/tree/master/0929-unique-email-addresses) |
@@ -230,6 +232,7 @@ DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mahboob-Attar/DSA/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahboob-Attar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Mahboob-Attar/DSA/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
@@ -292,4 +295,8 @@ DSA
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mahboob-Attar/DSA/tree/master/0455-assign-cookies) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mahboob-Attar/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
