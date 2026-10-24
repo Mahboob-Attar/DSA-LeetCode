@@ -22,6 +22,7 @@ DSA
 | [0171-excel-sheet-column-number](https://github.com/Mahboob-Attar/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mahboob-Attar/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +127,7 @@ DSA
 | [0724-find-pivot-index](https://github.com/Mahboob-Attar/DSA/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mahboob-Attar/DSA/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/Mahboob-Attar/DSA/tree/master/0860-lemonade-change) |
 | [0929-unique-email-addresses](https://github.com/Mahboob-Attar/DSA/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Mahboob-Attar/DSA/tree/master/0941-valid-mountain-array) |
@@ -303,4 +305,12 @@ DSA
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mahboob-Attar/DSA/tree/master/0496-next-greater-element-i) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
