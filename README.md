@@ -142,6 +142,7 @@ DSA
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mahboob-Attar/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1470-shuffle-the-array](https://github.com/Mahboob-Attar/DSA/tree/master/1470-shuffle-the-array) |
+| [1882-process-tasks-using-servers](https://github.com/Mahboob-Attar/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mahboob-Attar/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Mahboob-Attar/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/2248-intersection-of-multiple-arrays) |
@@ -307,6 +308,7 @@ DSA
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Mahboob-Attar/DSA/tree/master/0506-relative-ranks) |
+| [1882-process-tasks-using-servers](https://github.com/Mahboob-Attar/DSA/tree/master/1882-process-tasks-using-servers) |
 ## Quicksort
 |  |
 | ------- |
