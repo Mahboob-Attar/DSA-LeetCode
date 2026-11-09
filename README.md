@@ -211,6 +211,7 @@ DSA
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Mahboob-Attar/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Mahboob-Attar/DSA/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Memoization
 |  |
@@ -325,4 +326,8 @@ DSA
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Mahboob-Attar/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
