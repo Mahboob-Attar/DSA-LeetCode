@@ -23,6 +23,7 @@ DSA
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mahboob-Attar/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mahboob-Attar/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0504-base-7](https://github.com/Mahboob-Attar/DSA/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
 ## Recursion
@@ -64,6 +65,7 @@ DSA
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mahboob-Attar/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Mahboob-Attar/DSA/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Mahboob-Attar/DSA/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Mahboob-Attar/DSA/tree/master/0504-base-7) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mahboob-Attar/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
