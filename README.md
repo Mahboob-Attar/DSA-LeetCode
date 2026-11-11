@@ -26,6 +26,7 @@ DSA
 | [0504-base-7](https://github.com/Mahboob-Attar/DSA/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mahboob-Attar/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
@@ -269,6 +270,7 @@ DSA
 | [0860-lemonade-change](https://github.com/Mahboob-Attar/DSA/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Mahboob-Attar/DSA/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mahboob-Attar/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mahboob-Attar/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Breadth-First Search
 |  |
 | ------- |
