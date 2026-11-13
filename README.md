@@ -153,6 +153,7 @@ DSA
 | [2239-find-closest-number-to-zero](https://github.com/Mahboob-Attar/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mahboob-Attar/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mahboob-Attar/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/Mahboob-Attar/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
 |  |
