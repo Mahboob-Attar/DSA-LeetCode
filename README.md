@@ -154,6 +154,7 @@ DSA
 | [2248-intersection-of-multiple-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mahboob-Attar/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mahboob-Attar/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Mahboob-Attar/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
 |  |
@@ -262,6 +263,7 @@ DSA
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahboob-Attar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Mahboob-Attar/DSA/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -315,6 +317,7 @@ DSA
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Mahboob-Attar/DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Enumeration
 |  |
@@ -335,6 +338,7 @@ DSA
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mahboob-Attar/DSA/tree/master/0496-next-greater-element-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Geometry
 |  |
 | ------- |
@@ -351,4 +355,16 @@ DSA
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mahboob-Attar/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
