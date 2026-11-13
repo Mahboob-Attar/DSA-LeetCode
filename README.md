@@ -62,6 +62,7 @@ DSA
 | [0290-word-pattern](https://github.com/Mahboob-Attar/DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Mahboob-Attar/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mahboob-Attar/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Mahboob-Attar/DSA/tree/master/0409-longest-palindrome) |
@@ -182,6 +183,7 @@ DSA
 | [0290-word-pattern](https://github.com/Mahboob-Attar/DSA/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Mahboob-Attar/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Mahboob-Attar/DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Mahboob-Attar/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Mahboob-Attar/DSA/tree/master/0500-keyboard-row) |
@@ -200,6 +202,7 @@ DSA
 | ------- |
 | [0169-majority-element](https://github.com/Mahboob-Attar/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Mahboob-Attar/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mahboob-Attar/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/2248-intersection-of-multiple-arrays) |
@@ -362,6 +365,7 @@ DSA
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
