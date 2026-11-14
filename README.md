@@ -155,6 +155,7 @@ DSA
 | [2248-intersection-of-multiple-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mahboob-Attar/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mahboob-Attar/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mahboob-Attar/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Mahboob-Attar/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
@@ -293,6 +294,7 @@ DSA
 | [0303-range-sum-query-immutable](https://github.com/Mahboob-Attar/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Mahboob-Attar/DSA/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mahboob-Attar/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -320,6 +322,7 @@ DSA
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mahboob-Attar/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Mahboob-Attar/DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Enumeration
