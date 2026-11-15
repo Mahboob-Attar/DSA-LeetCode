@@ -1,26 +1,25 @@
 class Solution {
     public String licenseKeyFormatting(String s, int k) {
-        StringBuilder sb = new StringBuilder();
 
-        // Traverse from right to left
-        for (int i = s.length() - 1; i >= 0; i--) {
-            char ch = s.charAt(i);
+        s = s.replace("-", "").toUpperCase();
 
-            if (ch != '-') {
-                sb.append(Character.toUpperCase(ch));
+        StringBuilder ans = new StringBuilder();
 
-                // Add hyphen after every k characters
-                if (sb.length() % (k + 1) == k) {
-                    sb.append('-');
-                }
+        int first = s.length() % k;
+
+        if (first > 0) {
+            ans.append(s.substring(0, first));
+        }
+
+        for (int i = first; i < s.length(); i += k) {
+
+            if (ans.length() > 0) {
+                ans.append("-");
             }
+
+            ans.append(s.substring(i, i + k));
         }
 
-        // Remove trailing hyphen if present
-        if (sb.length() > 0 && sb.charAt(sb.length() - 1) == '-') {
-            sb.deleteCharAt(sb.length() - 1);
-        }
-
-        return sb.reverse().toString();
+        return ans.toString();
     }
 }
