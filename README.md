@@ -68,6 +68,7 @@ DSA
 | [0392-is-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mahboob-Attar/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Mahboob-Attar/DSA/tree/master/0409-longest-palindrome) |
+| [0482-license-key-formatting](https://github.com/Mahboob-Attar/DSA/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Mahboob-Attar/DSA/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Mahboob-Attar/DSA/tree/master/0504-base-7) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
