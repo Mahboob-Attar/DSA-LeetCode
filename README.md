@@ -21,6 +21,7 @@ DSA
 | [0070-climbing-stairs](https://github.com/Mahboob-Attar/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Mahboob-Attar/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Mahboob-Attar/DSA/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mahboob-Attar/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mahboob-Attar/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -402,4 +403,24 @@ DSA
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mahboob-Attar/DSA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mahboob-Attar/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mahboob-Attar/DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mahboob-Attar/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mahboob-Attar/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
