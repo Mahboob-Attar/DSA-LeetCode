@@ -85,6 +85,7 @@ DSA
 | [0942-di-string-match](https://github.com/Mahboob-Attar/DSA/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/Mahboob-Attar/DSA/tree/master/1002-find-common-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mahboob-Attar/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mahboob-Attar/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mahboob-Attar/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mahboob-Attar/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Mahboob-Attar/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
