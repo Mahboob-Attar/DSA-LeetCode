@@ -32,6 +32,7 @@ DSA
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mahboob-Attar/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mahboob-Attar/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
@@ -186,6 +187,7 @@ DSA
 | [3364-minimum-positive-sum-subarray](https://github.com/Mahboob-Attar/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Mahboob-Attar/DSA/tree/master/3693-climbing-stairs-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mahboob-Attar/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
