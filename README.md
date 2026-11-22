@@ -30,6 +30,7 @@ DSA
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahboob-Attar/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mahboob-Attar/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
@@ -85,6 +86,7 @@ DSA
 | [0929-unique-email-addresses](https://github.com/Mahboob-Attar/DSA/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Mahboob-Attar/DSA/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/Mahboob-Attar/DSA/tree/master/1002-find-common-characters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mahboob-Attar/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mahboob-Attar/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mahboob-Attar/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -441,4 +443,12 @@ DSA
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahboob-Attar/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
