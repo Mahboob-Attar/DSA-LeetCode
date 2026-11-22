@@ -28,6 +28,7 @@ DSA
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/Mahboob-Attar/DSA/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahboob-Attar/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mahboob-Attar/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -250,6 +251,7 @@ DSA
 | [0136-single-number](https://github.com/Mahboob-Attar/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mahboob-Attar/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahboob-Attar/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/Mahboob-Attar/DSA/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
@@ -435,4 +437,8 @@ DSA
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mahboob-Attar/DSA/tree/master/0292-nim-game) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahboob-Attar/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
