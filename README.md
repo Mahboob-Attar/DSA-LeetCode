@@ -151,6 +151,7 @@ DSA
 | [0594-longest-harmonious-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Mahboob-Attar/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Mahboob-Attar/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Mahboob-Attar/DSA/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
@@ -360,6 +361,7 @@ DSA
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Mahboob-Attar/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mahboob-Attar/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mahboob-Attar/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Mahboob-Attar/DSA/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
