@@ -85,6 +85,7 @@ DSA
 | [0482-license-key-formatting](https://github.com/Mahboob-Attar/DSA/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Mahboob-Attar/DSA/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Mahboob-Attar/DSA/tree/master/0504-base-7) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Mahboob-Attar/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mahboob-Attar/DSA/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
