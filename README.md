@@ -30,6 +30,7 @@ DSA
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahboob-Attar/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Mahboob-Attar/DSA/tree/master/0892-surface-area-of-3d-shapes) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mahboob-Attar/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/Mahboob-Attar/DSA/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -169,6 +170,7 @@ DSA
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/Mahboob-Attar/DSA/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Mahboob-Attar/DSA/tree/master/0860-lemonade-change) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Mahboob-Attar/DSA/tree/master/0892-surface-area-of-3d-shapes) |
 | [0929-unique-email-addresses](https://github.com/Mahboob-Attar/DSA/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Mahboob-Attar/DSA/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Mahboob-Attar/DSA/tree/master/0942-di-string-match) |
@@ -340,6 +342,7 @@ DSA
 | ------- |
 | [0463-island-perimeter](https://github.com/Mahboob-Attar/DSA/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/Mahboob-Attar/DSA/tree/master/0832-flipping-an-image) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Mahboob-Attar/DSA/tree/master/0892-surface-area-of-3d-shapes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -408,6 +411,7 @@ DSA
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Mahboob-Attar/DSA/tree/master/0892-surface-area-of-3d-shapes) |
 | [1037-valid-boomerang](https://github.com/Mahboob-Attar/DSA/tree/master/1037-valid-boomerang) |
 ## Polygons
 |  |
