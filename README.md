@@ -32,6 +32,7 @@ DSA
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mahboob-Attar/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Mahboob-Attar/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mahboob-Attar/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -173,6 +174,7 @@ DSA
 | [0989-add-to-array-form-of-integer](https://github.com/Mahboob-Attar/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/Mahboob-Attar/DSA/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mahboob-Attar/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Mahboob-Attar/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -365,6 +367,7 @@ DSA
 | [0495-teemo-attacking](https://github.com/Mahboob-Attar/DSA/tree/master/0495-teemo-attacking) |
 | [0832-flipping-an-image](https://github.com/Mahboob-Attar/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Mahboob-Attar/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mahboob-Attar/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Backtracking
 |  |
