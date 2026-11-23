@@ -31,6 +31,7 @@ DSA
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahboob-Attar/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Mahboob-Attar/DSA/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/Mahboob-Attar/DSA/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mahboob-Attar/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/Mahboob-Attar/DSA/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -171,6 +172,7 @@ DSA
 | [0832-flipping-an-image](https://github.com/Mahboob-Attar/DSA/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Mahboob-Attar/DSA/tree/master/0860-lemonade-change) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Mahboob-Attar/DSA/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/Mahboob-Attar/DSA/tree/master/0908-smallest-range-i) |
 | [0929-unique-email-addresses](https://github.com/Mahboob-Attar/DSA/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Mahboob-Attar/DSA/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Mahboob-Attar/DSA/tree/master/0942-di-string-match) |
