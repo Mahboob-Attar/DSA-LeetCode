@@ -30,6 +30,7 @@ DSA
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahboob-Attar/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
+| [0989-add-to-array-form-of-integer](https://github.com/Mahboob-Attar/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -169,6 +170,7 @@ DSA
 | [0941-valid-mountain-array](https://github.com/Mahboob-Attar/DSA/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Mahboob-Attar/DSA/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Mahboob-Attar/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/Mahboob-Attar/DSA/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mahboob-Attar/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/1352-product-of-the-last-k-numbers) |
