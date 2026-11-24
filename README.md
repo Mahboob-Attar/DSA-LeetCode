@@ -32,6 +32,7 @@ DSA
 | [0812-largest-triangle-area](https://github.com/Mahboob-Attar/DSA/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Mahboob-Attar/DSA/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Mahboob-Attar/DSA/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mahboob-Attar/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mahboob-Attar/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/Mahboob-Attar/DSA/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -174,6 +175,7 @@ DSA
 | [0860-lemonade-change](https://github.com/Mahboob-Attar/DSA/tree/master/0860-lemonade-change) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Mahboob-Attar/DSA/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Mahboob-Attar/DSA/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mahboob-Attar/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/Mahboob-Attar/DSA/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Mahboob-Attar/DSA/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Mahboob-Attar/DSA/tree/master/0942-di-string-match) |
@@ -240,6 +242,7 @@ DSA
 | [0500-keyboard-row](https://github.com/Mahboob-Attar/DSA/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0804-unique-morse-code-words](https://github.com/Mahboob-Attar/DSA/tree/master/0804-unique-morse-code-words) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mahboob-Attar/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/Mahboob-Attar/DSA/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Mahboob-Attar/DSA/tree/master/1002-find-common-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mahboob-Attar/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -256,6 +259,7 @@ DSA
 | [0383-ransom-note](https://github.com/Mahboob-Attar/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahboob-Attar/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mahboob-Attar/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mahboob-Attar/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -471,10 +475,12 @@ DSA
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mahboob-Attar/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mahboob-Attar/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Data Stream
 |  |
@@ -483,5 +489,6 @@ DSA
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mahboob-Attar/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mahboob-Attar/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
