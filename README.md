@@ -39,6 +39,7 @@ DSA
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Mahboob-Attar/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Mahboob-Attar/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2409-count-days-spent-together](https://github.com/Mahboob-Attar/DSA/tree/master/2409-count-days-spent-together) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mahboob-Attar/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mahboob-Attar/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mahboob-Attar/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -99,6 +100,7 @@ DSA
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mahboob-Attar/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mahboob-Attar/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mahboob-Attar/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2409-count-days-spent-together](https://github.com/Mahboob-Attar/DSA/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mahboob-Attar/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mahboob-Attar/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Mahboob-Attar/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
