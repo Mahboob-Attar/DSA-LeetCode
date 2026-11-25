@@ -21,6 +21,7 @@ DSA
 | [0070-climbing-stairs](https://github.com/Mahboob-Attar/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Mahboob-Attar/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Mahboob-Attar/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Mahboob-Attar/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Mahboob-Attar/DSA/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mahboob-Attar/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -383,6 +384,7 @@ DSA
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mahboob-Attar/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Mahboob-Attar/DSA/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/Mahboob-Attar/DSA/tree/master/0495-teemo-attacking) |
 | [0832-flipping-an-image](https://github.com/Mahboob-Attar/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Mahboob-Attar/DSA/tree/master/0844-backspace-string-compare) |
@@ -494,6 +496,7 @@ DSA
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mahboob-Attar/DSA/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mahboob-Attar/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mahboob-Attar/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Rolling Hash
