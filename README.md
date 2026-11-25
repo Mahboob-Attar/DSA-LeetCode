@@ -16,6 +16,7 @@ DSA
 | [0007-reverse-integer](https://github.com/Mahboob-Attar/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mahboob-Attar/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Mahboob-Attar/DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Mahboob-Attar/DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Mahboob-Attar/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mahboob-Attar/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mahboob-Attar/DSA/tree/master/0070-climbing-stairs) |
@@ -147,6 +148,7 @@ DSA
 | [0001-two-sum](https://github.com/Mahboob-Attar/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Mahboob-Attar/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Mahboob-Attar/DSA/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahboob-Attar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mahboob-Attar/DSA/tree/master/0136-single-number) |
@@ -355,6 +357,7 @@ DSA
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mahboob-Attar/DSA/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/Mahboob-Attar/DSA/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/Mahboob-Attar/DSA/tree/master/0832-flipping-an-image) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Mahboob-Attar/DSA/tree/master/0892-surface-area-of-3d-shapes) |
