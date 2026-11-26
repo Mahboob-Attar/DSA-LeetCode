@@ -80,6 +80,7 @@ DSA
 | [0058-length-of-last-word](https://github.com/Mahboob-Attar/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Mahboob-Attar/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Mahboob-Attar/DSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Mahboob-Attar/DSA/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Mahboob-Attar/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mahboob-Attar/DSA/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Mahboob-Attar/DSA/tree/master/0257-binary-tree-paths) |
@@ -116,6 +117,7 @@ DSA
 | [0005-longest-palindromic-substring](https://github.com/Mahboob-Attar/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Mahboob-Attar/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahboob-Attar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Mahboob-Attar/DSA/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Mahboob-Attar/DSA/tree/master/0392-is-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahboob-Attar/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mahboob-Attar/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -153,6 +155,7 @@ DSA
 | [0088-merge-sorted-array](https://github.com/Mahboob-Attar/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahboob-Attar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mahboob-Attar/DSA/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Mahboob-Attar/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Mahboob-Attar/DSA/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Mahboob-Attar/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
@@ -236,6 +239,7 @@ DSA
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mahboob-Attar/DSA/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/Mahboob-Attar/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Mahboob-Attar/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Mahboob-Attar/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mahboob-Attar/DSA/tree/master/0202-happy-number) |
@@ -299,6 +303,7 @@ DSA
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mahboob-Attar/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Mahboob-Attar/DSA/tree/master/0139-word-break) |
 ## Newton's Method
 |  |
 | ------- |
@@ -517,4 +522,12 @@ DSA
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Mahboob-Attar/DSA/tree/master/3934-smallest-unique-subarray) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Mahboob-Attar/DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Mahboob-Attar/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
