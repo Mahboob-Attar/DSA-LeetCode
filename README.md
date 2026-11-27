@@ -27,6 +27,7 @@ DSA
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Mahboob-Attar/DSA/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mahboob-Attar/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0441-arranging-coins](https://github.com/Mahboob-Attar/DSA/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mahboob-Attar/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/Mahboob-Attar/DSA/tree/master/0504-base-7) |
@@ -299,6 +300,7 @@ DSA
 | [0268-missing-number](https://github.com/Mahboob-Attar/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Mahboob-Attar/DSA/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mahboob-Attar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/Mahboob-Attar/DSA/tree/master/0441-arranging-coins) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3934-smallest-unique-subarray](https://github.com/Mahboob-Attar/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Memoization
