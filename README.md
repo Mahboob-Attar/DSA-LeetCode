@@ -219,6 +219,7 @@ DSA
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mahboob-Attar/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3934-smallest-unique-subarray](https://github.com/Mahboob-Attar/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Mahboob-Attar/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Mahboob-Attar/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -238,6 +239,7 @@ DSA
 | [2248-intersection-of-multiple-arrays](https://github.com/Mahboob-Attar/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Mahboob-Attar/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mahboob-Attar/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Mahboob-Attar/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -359,6 +361,7 @@ DSA
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Mahboob-Attar/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mahboob-Attar/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Mahboob-Attar/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Mahboob-Attar/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -431,6 +434,7 @@ DSA
 | [0506-relative-ranks](https://github.com/Mahboob-Attar/DSA/tree/master/0506-relative-ranks) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mahboob-Attar/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Mahboob-Attar/DSA/tree/master/1882-process-tasks-using-servers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Mahboob-Attar/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quicksort
 |  |
 | ------- |
